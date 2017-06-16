@@ -11,7 +11,10 @@ class RecordsController < ApplicationController
   # GET /records/1.json
   def show
   end
-
+  
+  
+  
+  
   # GET /records/new
   def new
     @record = Record.new
